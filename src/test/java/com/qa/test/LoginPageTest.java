@@ -7,6 +7,6 @@ public class LoginPageTest {
 	
 	@Test
 	public void loginTest() {
-		System.out.println("Login Test");
+		System.out.println("Login...Test");
 	}
 }
